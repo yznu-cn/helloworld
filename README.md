@@ -19,3 +19,8 @@ fork 这个项目，然后在里面添加内容。分类按照项目工程一样
  - [go语言圣经](book/go语言圣经.pdf)
  - [erlang程序设计](book/erlang程序设计.pdf)
  - [JavaScript高级程序设计（第3版）](book/JavaScript高级程序设计（第3版）】中文 高清 完整 详细书签版.pdf)
+ - 
+##### 编码规范
+ - [阿里巴巴Java编码规范](coding-guide/阿里巴巴Java代码规范.pdf)
+ - [谷歌cpp编码规范(中文)](coding-guide/Google_Cpp_Style_guide_CN.pdf)
+ 
